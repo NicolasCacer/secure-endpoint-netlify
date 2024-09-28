@@ -1,0 +1,23 @@
+{
+  "name": "secure-endpoint",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000e\u0000c\u0000u\u0000r\u0000e\u0000-\u0000e\u0000n\u0000d\u0000p\u0000o\u0000i\u0000n\u0000t\u0000-\u0000n\u0000e\u0000t\u0000l\u0000i\u0000f\u0000y\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "netlify-lambda": "^2.0.16"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.36.2",
+    "nodemon": "^3.1.7"
+  }
+}
